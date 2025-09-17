@@ -1,0 +1,7 @@
+{
+  "enabled": true,
+  "authorizedBots": [],
+  "adminOnlyAddition": true,
+  "autoSaveConfig": true,
+  "doublebanPolicy": true
+}

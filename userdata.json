@@ -1,0 +1,32 @@
+{
+  "1327564898460242015": {
+    "level": 13,
+    "totalXP": 8325,
+    "messageCount": 45,
+    "voiceMinutes": 3,
+    "totalMessages": 45,
+    "totalVoiceMinutes": 3,
+    "lastMessageTime": 1758077707135,
+    "lastXPGain": 600
+  },
+  "1380437120719781980": {
+    "level": 9,
+    "totalXP": 3825,
+    "messageCount": 15,
+    "voiceMinutes": 9,
+    "totalMessages": 15,
+    "totalVoiceMinutes": 9,
+    "lastMessageTime": 1758102316316,
+    "lastXPGain": 150
+  },
+  "882180044884156416": {
+    "level": 1,
+    "totalXP": 125,
+    "messageCount": 1,
+    "voiceMinutes": 0,
+    "totalMessages": 1,
+    "totalVoiceMinutes": 0,
+    "lastMessageTime": 1758111720367,
+    "lastXPGain": 125
+  }
+}
